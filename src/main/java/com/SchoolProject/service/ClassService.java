@@ -75,5 +75,7 @@ public class ClassService {
 		System.out.println(joinfields.size());
 		return classjoined;
 	}
-
+public void Checking() {
+	System.out.println("Thanks");
+}
 }
